@@ -1,0 +1,123 @@
+.txtthai {
+  font-family: "Prompt", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.text-center {
+    text-align: center;
+}
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.5rem;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    padding: 15px;
+    margin: 10px;
+}
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+.card-body {
+    flex: 1 1 auto;
+    padding: 0.75rem;
+    margin: 0 10px;
+}
+
+.card-text {
+    margin-bottom: 1rem;
+}
+
+.card-img {
+    width: 100%;
+    max-width: 160px;
+    border-radius: 0.25rem;
+    margin: 0.5rem;
+    display: block;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.width-25 {
+    width: 25%;
+}
+
+.width-50 {
+    width: 50%;
+}
+
+.width-75 {
+    width: 75%;
+}
+
+.width-100 {
+    width: 100%;
+}
+
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+    border-collapse: collapse;
+    font-family: 'Prompt', sans-serif;
+    font-size: 0.9rem;
+}
+.m{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.carlen-yellow {
+    background-color: #fff2cc;
+    border-color: rgb(223, 223, 9);
+}
+
+.carlen-pink {
+    background-color: #ffe5ee;
+    border-color: rgb(218, 20, 218);
+}
+
+.carlen-green {
+    background-color: #d9ead3;
+    border-color: rgb(22, 181, 22);
+}
+
+.carlen-orange {
+    background-color: #f9cb9c;
+    border-color: rgb(193, 141, 44);
+}
+
+.carlen-blue {
+    background-color: #cfe2f3;
+    border-color: rgb(25, 25, 150);
+}
+
+.carlen-purple {
+    background-color: #ead1dc;
+    border-color: rgb(144, 11, 144);
+}
+
+.carlen-red {
+    background-color: #f4cccc;
+    border-color: #d42c2c;
+}
+ 
